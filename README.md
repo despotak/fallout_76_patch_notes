@@ -5,6 +5,7 @@ Welcome to the _**Fallout 76**_ community patch notes.
 We will try to provide comprehensive and complete notes on any changes we can collect. There are still changes that we cannot find or confirm, like changes to the server side, changes inside the executable, etc.
 
 ## Index
+[**19/12/2018:** v1.0.3.17](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.3.17.md)  
 [**11/12/2018:** v1.0.3.10](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.3.10.md)  
 [**04/12/2018:** v1.0.2.3](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.2.3.md)  
 **14/11/2018:** v1.0.1.14  
