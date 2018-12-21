@@ -1,10 +1,6 @@
 # _Fallout 76_ v1.0.x.x xx/xx/xx Patch Notes
 
-Table of Contents
-=================
-
 - [_Fallout 76_ v1.0.x.x xx/xx/xx Patch Notes](#_fallout-76_-v10xx-xxxxxx-patch-notes)
-- [Table of Contents](#table-of-contents)
   - [Official Bethesda Patch notes](#official-bethesda-patch-notes)
     - [Planned changes (notes released xx/xx/xx)](#planned-changes-notes-released-xxxxxx)
     - [Official Patch note (notes released xx/xx/xx)](#official-patch-note-notes-released-xxxxxx)
