@@ -6,7 +6,7 @@ We will try to provide comprehensive and complete notes on any changes we can co
 
 ## Index
 
-[**10/01/2019:** v1.0.x.x](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.x.x.md)  
+[**10/01/2019:** v1.0.4.13](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.4.13.md)  
 [**19/12/2018:** v1.0.3.17](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.3.17.md)  
 [**11/12/2018:** v1.0.3.10](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.3.10.md)  
 [**04/12/2018:** v1.0.2.3](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.2.3.md)  
