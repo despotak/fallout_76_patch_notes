@@ -6,6 +6,7 @@ We will try to provide comprehensive and complete notes on any changes we can co
 
 ## Index
 
+[**10/01/2019:** v1.0.x.x](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.x.x.md)  
 [**19/12/2018:** v1.0.3.17](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.3.17.md)  
 [**11/12/2018:** v1.0.3.10](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.3.10.md)  
 [**04/12/2018:** v1.0.2.3](https://github.com/despotak/fallout_76_patch_notes/blob/master/v1.0.2.3.md)  
@@ -15,6 +16,6 @@ We will try to provide comprehensive and complete notes on any changes we can co
 
 ## Credits
 
-[despotak](https://github.com/despotak) (aka [Cdr_Archangel](https://www.nexusmods.com/users/34088075) on Nexusmods and discord): Main maintainer of this list.  
+[despotak](https://github.com/despotak): (aka [Cdr_Archangel](https://www.nexusmods.com/users/34088075) on Nexusmods and Discord): Main maintainer of this list.  
 [Roby65](https://github.com/roby65): Main tool architect and curator.  
 [ElminsterAU](https://github.com/ElminsterAU): Main developer of [xEdit](https://github.com/TES5Edit/TES5Edit)
