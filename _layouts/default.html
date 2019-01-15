@@ -20,10 +20,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+  <!-- {{ site.github.source.path }} -->
     <!--<a id="skip-to-content" href="#content">Skip to the content.</a>-->
-	{% if site.github.source.path == "/" %}
-	<a href="index.html">Back to home</a>
-	{% endif %}
+	
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
