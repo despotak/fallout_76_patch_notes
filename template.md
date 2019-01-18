@@ -8,6 +8,7 @@
     - [Changes found on the `SeventySix.esm` file](#changes-found-on-the-seventysixesm-file)
     - [Changes found on `.ba2` files](#changes-found-on-ba2-files)
     - [Other changes confirmed by the community](#other-changes-confirmed-by-the-community)
+    - [List of changed files](#list-of-changed-files)
 
 ## Official Bethesda Patch notes
 
@@ -30,5 +31,9 @@ TBA
 TBA
 
 ### Other changes confirmed by the community
+
+TBA
+
+### List of changed files
 
 TBA
