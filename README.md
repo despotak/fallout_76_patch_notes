@@ -16,6 +16,7 @@ We will try to provide comprehensive and complete notes on any changes we can co
 **30/10/2018:** v1.0.0.2: First Beta release on PC  
 
 ## Livestream
+
 We livestream our workflow and answer questions at <http://twitch.despotak.is>, <http://mixer.despotak.is>, and <http://youtube_live.despotak.is>  
 Expect us to go live a couple of hours after the patch hit.
 
