@@ -31,7 +31,7 @@ Bugthesda is a github "organization" were community members can open Issues (bug
 
 This endeavor requires the participation of the community and it will need some people to take moderation roles to keep it in check. So, is you are interested, send me a message.
 
-### Visit Bugthesda at https://github.com/bugthesda
+### Visit Bugthesda at [https://github.com/bugthesda](https://github.com/bugthesda)
 
 P.S. You will need a github account to be able to post and comment.
 
