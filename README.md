@@ -6,6 +6,7 @@ We will try to provide comprehensive and complete notes on any changes we can co
 
 ## Index
 
+[**xx/02/2019:** v1.0.6.x](v1.0.6.x.md)  
 [**31/01/2019:** v1.0.5.14](v1.0.5.14.md)  
 [**29/01/2019:** v1.0.5.10](v1.0.5.10.md)  
 [**10/01/2019:** v1.0.4.13](v1.0.4.13.md)  
