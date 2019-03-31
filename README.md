@@ -6,7 +6,8 @@ We will try to provide comprehensive and complete notes on any changes we can co
 
 ## Index
 
-[**13/03/2019:** v1.1.0.8](v1.1.0.8.md)  
+[**26/03/2019:** v1.1.1.2](v1.1.1.2.md)
+[**13/03/2019:** v1.1.0.8](v1.1.0.8.md) (unfinished)
 [**19/02/2019:** v1.0.6.0](v1.0.6.0.md)  
 [**31/01/2019:** v1.0.5.14](v1.0.5.14.md)  
 [**29/01/2019:** v1.0.5.10](v1.0.5.10.md)  
